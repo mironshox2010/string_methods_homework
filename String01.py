@@ -5,6 +5,7 @@ def main(s):
         s: str
     Returns:
         str: answer
-    """
-    
-    return
+    """ 
+    x=s.title()
+    return x
+print(main('fdsf fvsdz fgsd'))
