@@ -6,5 +6,6 @@ def main(s):
     Returns:
         int: answer
     """
-    
-    return
+    x=s.count('a')
+    return x
+print(main('Assalomu alaykum'))
