@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    x=s.find('x')
+    return x
+print(main('iphone x is a mobile'))
